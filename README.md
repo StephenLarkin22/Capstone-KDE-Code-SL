@@ -1,6 +1,17 @@
 # Capstone-KDE-Code-SL
 This contains the code used in completing the Final Year Project 2026 MAU44P00 on kernel density estimation by Stephen Larkin. The code was completed in both Mathematica and R programming language in the following sections:
 
+## Section 2: Kernel Density Estimation on R
+Mathematica was used for:
+
+-Plots and simulation from the motivating example in Figure 1. Figure 2 and 3 were also generated in Mathematica.
+
+-Figure 5 was produced in Mathematica for depiction purposes.
+
+R was used for:
+
+-Figure 4: kernel plots.
+
 ## Section 5: Simulations
 Mathematica was used for:
 
