@@ -93,6 +93,3 @@ MISES1[[ti]]=
 NIntegrate[(KDES1[\[Theta]])^2 -2*KDES1[\[Theta]]*UniDistS1,{\[Theta],-\[Pi],\[Pi]}]+SquaredInt
 ,{ti,1,30}];
 Print[Mean[MISES1]];
-
-
-
